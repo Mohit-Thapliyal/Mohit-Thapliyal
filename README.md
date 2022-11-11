@@ -1,21 +1,21 @@
 
 # Namaste, I'm Mohit Thapliyal! 👋
 
-##### I'm a **full stack developer.**
-##### **Organised, Responsive, Helpful, Observant** and **Trustworthy** are some of the adjectives to define me.
+I'm a **full stack developer.**  
+**Organised, Responsive, Helpful, Observant** and **Trustworthy** are some of the adjectives to define me.
 
 
 ## 🚀 About Me
-I love to code and always try to learn new technoglogies,
-I like taking challenges and always do my best. I'm not afraid of 
+I love to code and always try to learn new technoglogies,  
+I like taking challenges and always do my best. I'm not afraid of  
 failures and enjoy the learning journey.
 
 
 
 ## 🛠 Skills
-##### **Javascript**  **HTML**  **CSS**
-##### **React** **Tailwind** 
-##### **C++** **DSA** **Python**
+**Javascript**  **HTML**  **CSS**  
+**React** **Tailwind**  
+**C++** **DSA** **Python**
 
 
 ## 🔗 Links
