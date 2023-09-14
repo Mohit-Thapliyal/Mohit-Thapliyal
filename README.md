@@ -23,3 +23,5 @@ failures and enjoy the learning journey.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-thapliyal-b20104146/)
 
 ![plot1](./image/portfolio.png)
+
+![plot1](./image/portfolio-light.png)
